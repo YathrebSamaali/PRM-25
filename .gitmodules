@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/YathrebSamaali/prm-25-back.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/YathrebSamaali/prm-25-front.git
